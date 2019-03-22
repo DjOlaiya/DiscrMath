@@ -1,0 +1,1 @@
+Purpose is to implement and test out different discrete math algorithms.
